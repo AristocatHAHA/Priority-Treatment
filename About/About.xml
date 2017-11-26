@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Priority Treatment</name>
+  <author>Aristocat</author>
+    <url>https://github.com/AristocatHAHA/Priority-Treatment</url>
+        <targetVersion>0.18.1722</targetVersion>
+<description>
+
+Colonists priority treating wounds over sleeping, eating and joy.
+
+This mod set doctoring as same priority as firefighting, as in emergency. Recommended to set doctoring as priority 1.
+
+</description>
+</ModMetaData>
